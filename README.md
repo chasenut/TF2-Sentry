@@ -50,7 +50,17 @@ All (electronic) parts can be purchased at [botland.com.pl](https://www.botland.
 Everything (that could be) is 3D-printed. I made all models myself.<br>
 All models should be in `parts/` directory.<br>
 
-For any additional info and contribution, please contanct me at `switalamaciej5@gmail.com` or github.
+For any additional info and contribution, please contanct me:
+
+***Email***
+- `switalamaciej5[at]gmail.com`
+- `switalamaciej64[at]gmail.com`
+
+***Discord***
+- `cashtan`
+
+***Github***
+- `chasenut`
 
 <br>
 <br>

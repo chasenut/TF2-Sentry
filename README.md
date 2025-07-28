@@ -65,7 +65,7 @@ For any additional info and contribution, please contanct me:
 ## Some fun specs
 
 This Sentry:
-- Has a maximum height of about `55cm` or `22.6"`
+- Has a maximum height of about `55cm` or `21.6"`
 - Is heavy (weighs a couple of solid pounds)
 - Took a few (whole) days just to print the parts
 - Uses many many screws
@@ -73,8 +73,8 @@ This Sentry:
 - Has a spinning sirent with LED
 - Has a front LED and LED Laser
 - Is capable of rotation:
- - vertical elevation/depression
- - horizontal traverse
+    - vertical elevation/depression
+    - horizontal traverse
 - Has moving parts
 
 <div align="center">

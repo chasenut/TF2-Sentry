@@ -1,18 +1,26 @@
 <div align="center">
-    <img src="images/banner.jpg" alt="banner" height="70">
-    <img src="images/raw-sentry.png" alt="sentry" height="300">
 
-    <br>
+<img src="images/banner.png" alt="banner" height="120">
 
-    Team Fortress 2 Sentry (Level 1) custom build (entirely), 3D print your own and upgrade it!
+<br>
+
+<img src="images/raw-sentry.png" alt="sentry" height="450">
+
+<br>
+
+Team Fortress 2 Sentry (Level 1) custom build (entirely), 3D print your own and upgrade it!
+
 </div>
 
 
 ## About
 
 <div align="center">
-    <img src="images/engie.png", height="200">
+
+<img src="images/engie.png" height="400">
+
 </div>
+
 I started this project about in February, 2025, after Valve announced open-sourcing Team Fortress 2.
 TF2 was (and will be) my favourite shooter, I grew up with it, and I love it. 
 It always had place in my heart. So here I am, to commit something to the community, I made this project
@@ -34,11 +42,11 @@ For any additional info and contribution, please contanct me at `switalamaciej5@
 ## Gallery
 
 <div align="center">
-    <img src="images/s1.jpg">
+<img src="images/s1.jpg">
 
-    <br>
+<br>
 
-    <img src="images/s2.jpg">
+<img src="images/s2.jpg">
 </div>
 
 ## Functionality & code
@@ -51,6 +59,9 @@ your own code for this project, you can use current one as reference.
 ### Build
 
 For building and deploying I use(d) Visual Studio Code plugin [Platformio](https://platformio.org/).
+
+---
+
 
 <div align="center">
     <img src="images/manual.jpg" alt="manual">

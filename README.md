@@ -1,29 +1,66 @@
-# Team Fortress 2 Sentry with the wireless module
+<div align="center">
+    <img src="images/banner.jpg" alt="banner" height="70">
+    <img src="images/raw-sentry.png" alt="sentry" height="300">
 
-<p align="center">
-<img src="images/banner.jpg" alt="banner" height="70">
-</p>
-<p align="center">
-    <img src="images/raw-sentry.png" alt="sentry" height="250">
-</p>
+    <br>
 
-# Build
+    Team Fortress 2 Sentry (Level 1) custom build (entirely), 3D print your own and upgrade it!
+</div>
 
-I use VSC Platformio
 
-# Parts
+## About
+
+<div align="center">
+    <img src="images/engie.png", height="200">
+</div>
+I started this project about in February, 2025, after Valve announced open-sourcing Team Fortress 2.
+TF2 was (and will be) my favourite shooter, I grew up with it, and I love it. 
+It always had place in my heart. So here I am, to commit something to the community, I made this project
+which includes self-made 3D CADs and some electronics. 
+This took hundrets of hours to make, and spanned over 4 whole months to make.
+**Feel free to do whatever you want with it!**
+
+### Parts
 
 Board: ESP32
 I'm using some standard servos and motors, as well as LEDs etc. 
 All (electronic) parts can be purchased at [botland.com.pl](https://www.botland.com/pl).
+
 Everything (that could be) is 3D-printed. I made all models myself.
+All models should be in `parts` directory.
 
+For any additional info and contribution, please contanct me at `switalamaciej5@gmail.com` or github.
 
-<p align="center">
-    <img src="images/manual.jpg" alt="manual"">
-</p>
+## Gallery
+
+<div align="center">
+    <img src="images/s1.jpg">
+
+    <br>
+
+    <img src="images/s2.jpg">
+</div>
+
+## Functionality & code
+
+This project's goal was to create a 3D replica of Sentry from our beloved game Team Fortress 2.
+Code for this Sentry (and wireless module (Wrangler), which is not finished) isn't ready or good, 
+I would say it is trash and was assembled quickly just to test the turret. Feel free to make/submit
+your own code for this project, you can use current one as reference. 
+
+### Build
+
+For building and deploying I use(d) Visual Studio Code plugin [Platformio](https://platformio.org/).
+
+<div align="center">
+    <img src="images/manual.jpg" alt="manual">
+</div>
+
+---
 
 ### Notice
+
+Inspired by [Mr. Volt](https://www.youtube.com/@MrVolt).
 
 This project is not affiliated with Valve Corporation.
 Images sources:

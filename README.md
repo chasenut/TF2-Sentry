@@ -1,10 +1,10 @@
 # Team Fortress 2 Sentry with the wireless module
 
 <p align="center">
-<img src="images/banner.jpg" alt="banner" style="height=70">
+<img src="images/banner.jpg" alt="banner" height="70">
 </p>
 <p align="center">
-    <img src="images/raw-sentry.png" alt="sentry" style="height=250">
+    <img src="images/raw-sentry.png" alt="sentry" height="250">
 </p>
 
 # Build

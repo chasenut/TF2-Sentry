@@ -62,8 +62,20 @@ For any additional info and contribution, please contanct me:
 ***Github***
 - `chasenut`
 
-<br>
-<br>
+## Some fun specs
+
+This Sentry:
+- Has a maximum height of about `55cm` or `22.6"`
+- Is heavy (weighs a couple of solid pounds)
+- Took a few (whole) days just to print the parts
+- Uses many many screws
+- Takes about 30-60 minutes just to dis/assemble
+- Has a spinning sirent with LED
+- Has a front LED and LED Laser
+- Is capable of rotation:
+ - vertical elevation/depression
+ - horizontal traverse
+- Has moving parts
 
 <div align="center">
 

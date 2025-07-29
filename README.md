@@ -50,6 +50,7 @@ This version of the turret
 **doesn't require any custom metal parts, everything is 3D-printable** 
 and screw together using only M3 and M4 machine screws.<br>
 All (printable) models should be in `parts/` directory.<br>
+You can also preview the 3D model [here](https://a360.co/44RaSrK).<br>
 <br>
 
 ### Needed (store bought) parts
@@ -126,6 +127,11 @@ This Sentry:
 <br>
 
 <img src="images/s2.jpg" width="700">
+
+<br>
+
+<img src="images/cad1.png" width="700">
+
 
 </div>
 

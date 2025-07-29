@@ -5,7 +5,7 @@ My goal is to contribute to community with something awesome, free and special. 
 I also want to preserve this artwork, and commit to <br>
 
 <div align="center">
-***#savetf2***
+#savetf2
 </div>
 
 # Contribution

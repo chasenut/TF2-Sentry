@@ -122,6 +122,8 @@ This Sentry:
 
 <br>
 
+_The white stand is not needed, it is just for display_
+
 <img src="images/s1.jpg" width="700">
 
 <br>

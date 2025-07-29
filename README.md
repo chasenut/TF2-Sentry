@@ -33,7 +33,7 @@ I started this project about in February, 2025, after Valve announced open-sourc
 TF2 was (and will be) my favourite shooter, I grew up with it, and I love it. <br>
 It always had place in my heart. So here I am, to commit something to the community, I made this project
 which includes self-made 3D CADs and some electronics. <br>
-This took hundrets of hours to make, and spanned over 4 whole months to make.
+This took hundreds of hours to make, and spanned over 4 whole months to make.
 
 <br>
 

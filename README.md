@@ -42,7 +42,7 @@ This took hundreds of hours to make, and spanned over 4 whole months to make.
 
 ## Parts
 
-Microcontroller: `ESP32`<br>
+Microcontroller: `esp32doit-devkit-v1`<br>
 I'm using some standard servos and motors, as well as LEDs etc. <br>
 All (electronic) parts can be purchased at [botland.com.pl](https://www.botland.com/pl).<br>
 Everything (that could be) is 3D-printed. I made all models myself.<br>

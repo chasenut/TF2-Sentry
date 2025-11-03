@@ -14,7 +14,6 @@ You can contanct me in multiple ways:
 
 ***Email***
 - `switalamaciej5[at]gmail.com`
-- `switalamaciej64[at]gmail.com`
 
 ***Discord***
 - `cashtan`

@@ -29,11 +29,10 @@ Team Fortress 2 Sentry (Level 1).<br>
 <br>
 <br>
 
-I started this project about in February, 2025, after Valve announced open-sourcing Team Fortress 2.<br>
-TF2 was (and will be) my favourite shooter, I grew up with it, and I love it. <br>
-It always had place in my heart. So here I am, to commit something to the community, I made this project
-which includes self-made 3D CADs and some electronics. <br>
-This took hundreds of hours to make, and spanned over 4 whole months to make.
+I started this project in February, 2025, after Valve announced open-sourcing Team Fortress 2.<br>
+This is the piece of software I grew up with, so to commit something to the community, 
+I made this project which includes self-made 3D CADs and some electronics. <br>
+This took hundreds of hours to make, and spanned over several months to design and make.
 
 <br>
 
@@ -69,7 +68,7 @@ a stronger ones with the same dimensions
 but you may use any other of your choice (similar specs, same size), it is for siren to spin.
 
 <br>
-Of course you may also need some batteries, wires and other circuit-stuff. I didn't make it that good, 
+Of course you may also need some batteries, wires and other circuit-stuff. Not gonna lie, I didn't do the circuit stuff the best way, 
 so you can definetly do better than me.
 
 
@@ -93,7 +92,6 @@ For any additional info and contribution, please contanct me:
 
 ***Email***
 - `switalamaciej5[at]gmail.com`
-- `switalamaciej64[at]gmail.com`
 
 ***Discord***
 - `cashtan`
@@ -114,7 +112,7 @@ This Sentry:
 - Is capable of rotation:
     - vertical elevation/depression
     - horizontal traverse
-- Has moving parts
+- Has several moving parts
 
 <div align="center">
 
@@ -142,13 +140,13 @@ _The white stand is not needed, it is just for display_
 # Functionality & code
 
 This project's goal was to create a **3D replica** of Sentry from our beloved game Team Fortress 2.
-Code for this Sentry _(and wireless module (Wrangler), which is not finished)_ isn't ready or good, 
-I would say it is trash and was assembled quickly just to test the turret. **Feel free** to make/submit
+Code for this Sentry _(and wireless module (Wrangler), which is not yet finished)_ isn't complete, full or outstanding, 
+I would say it was just a placeholder and was assembled in a short period of time just to test the turret. **Feel free** to make/submit
 your own code for this project, you can use current one as reference. 
 
 # Code build
 
-For building and deploying I use(d) **Visual Studio Code** plugin [Platformio](https://platformio.org/).
+For building and deploying I use(d) VSC's [Platformio](https://platformio.org/).
 
 ---
 
@@ -160,9 +158,10 @@ For building and deploying I use(d) **Visual Studio Code** plugin [Platformio](h
 
 ## Notice
 
+Every single parts is self-designed, none content were copied.
 Inspired by [Mr. Volt](https://www.youtube.com/@MrVolt).
 
 This project is not affiliated with Valve Corporation.
-Images sources:
+Image sources:
 - [teamfortress.com](https://www.teamfortress.com)
 - [mundymundy.tumblr.com](https://mundymundy.tumblr.com/post/672858009940213760/hello-can-you-do-general-relationship-headcanons)
